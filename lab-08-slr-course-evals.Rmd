@@ -3,6 +3,7 @@ title: "Lab 8 - Grading the professor, Pt. 1"
 subtitle: "Modelling with a single predictor"
 output: html_document
 link-citations: true
+author: "Evan Kurtz"
 ---
 
 ```{r include=FALSE}
